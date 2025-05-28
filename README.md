@@ -1,6 +1,8 @@
 ## === Duplicate Page Creator === 
 Author: Mohit Pal
+
 Author URI: https://themohitpal.com/
+
 Tags: duplicate, clone page, page copy, duplicate post, wordpress page clone  
 Requires at least: 5.0  
 Tested up to: 6.5  
